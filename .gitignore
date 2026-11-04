@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary editor files
+*.save
+*~
+
+# Private cryptographic keys
+*.pem
+*.key
